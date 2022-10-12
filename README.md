@@ -5,7 +5,7 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 
 ## 네트워크
 
-**웹 애플리케이션 작동원리**
+### 웹 애플리케이션 작동원리
 
 - 웹 애플리케이션 네이티브 애플리케이션의 기본 개념
 - 네트워크를 만드는 기술
@@ -29,20 +29,25 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - HTTP requests와 responses 구분
   - HTTP의 응답 메시지
   - 
----
 
-**HTTP**
+
+### HTTP
 - REST API
 - Open API와 API Key
 - Postman
 
 ---
 
-##SQL
-
+## SQL
+- 기본 문법
+- ACID
+- DATABASE 설계
+- DATABASE 정규화
+- Advanced
+- [참고자료]([https://github.com/PgmJun/Study_BackEnd/blob/main/HTTP/HTTP-TIL.md#%EC%BF%A0%ED%82%A4](https://websitesetup.org/wp-content/uploads/2020/08/SQL-Cheat-Sheet-websitesetup.pdf))
 ---
 
-##Spring
+## Spring
 - Spring Framework 기본
 - Spring Framework 특징
 - Spring Framework 모듈 구성

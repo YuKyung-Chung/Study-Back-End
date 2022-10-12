@@ -1,14 +1,11 @@
 # Study-Back-End
 Back-End 다루기 위해 필요한 지식 공부 기록
 
+---
+
 ## 네트워크
 
-
-
 **웹 애플리케이션 작동원리**
-
-- BackEnd 를 다루기 위해 필요한 HTTP 기본 지식 습득을 위한 공부 기록.
-- [HTTP ](https://github.com/PgmJun/Study_BackEnd/blob/main/HTTP/HTTP-TIL.md#http-til)
 
 - 웹 애플리케이션 네이티브 애플리케이션의 기본 개념
 - 네트워크를 만드는 기술
@@ -31,3 +28,24 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - HTTP의 동작 방식
   - HTTP requests와 responses 구분
   - HTTP의 응답 메시지
+  - 
+---
+
+**HTTP**
+- REST API
+- Open API와 API Key
+- Postman
+
+---
+
+##SQL
+
+---
+
+##Spring
+- Spring Framework 기본
+- Spring Framework 특징
+- Spring Framework 모듈 구성
+- Spring Boot
+- DI(Dependency Injection)
+- AOP(Aspect Oriented Programming)

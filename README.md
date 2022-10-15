@@ -52,5 +52,8 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 - Spring Framework 특징
 - Spring Framework 모듈 구성
 - Spring Boot
+- POJO(Plain Old Java Object)
+- IoC(Inversion of Control)
 - DI(Dependency Injection)
 - AOP(Aspect Oriented Programming)
+- PSA(Portable Service Abstraction)

@@ -55,5 +55,14 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 - POJO(Plain Old Java Object)
 - IoC(Inversion of Control)
 - DI(Dependency Injection)
+  - 스프링 컨테이너
+  - 빈
+  - 빈 스코프
 - AOP(Aspect Oriented Programming)
+  - AOP 필요한 이유
+  - AOP 용어
+  - 타입별 Advice
+  - Pointcut 표현식
+  - JoinPoint
+  - 애너테이션을 이용한 AOP
 - PSA(Portable Service Abstraction)

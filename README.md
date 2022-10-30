@@ -72,3 +72,15 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - Spring MVC 아키텍처
   - Controller
   - DTO(Data Transfer Object)
+
+- 서비스 계층
+  - DI를 통한 서비스 계층 <-> API 계층 연동
+  - Mapper를 이용한 DTO 클래스 <-> 엔티티(Entity) 클래스 매핑
+
+- 예외 처리
+  - @ExceptionHandler를 이용한 예외 처리
+  - @RestControllerAdvice를 이용한 예외 처리
+  - 예외 던지기(throw)
+
+- JDBC 기반 데이터 액세스 계층
+  - Spring Data JDBC

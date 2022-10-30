@@ -66,3 +66,9 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - JoinPoint
   - 애너테이션을 이용한 AOP
 - PSA(Portable Service Abstraction)
+
+## Spring MVC
+- API 계층
+  - Spring MVC 아키텍처
+  - Controller
+  - DTO(Data Transfer Object)

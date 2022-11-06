@@ -84,3 +84,8 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 
 - JDBC 기반 데이터 액세스 계층
   - Spring Data JDBC
+  
+- JPA 기반 데이터 액세스 계층
+  - Spring Data JPA
+
+- 트랜잭션

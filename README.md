@@ -8,7 +8,7 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 ### 웹 애플리케이션 작동원리
 
 - 웹 애플리케이션 네이티브 애플리케이션의 기본 개념
-- [네트워크를 만드는 기술] (https://infinite-power.tistory.com/78)
+- [네트워크를 만드는 기술](https://infinite-power.tistory.com/78)
   - TCP/IP
   - IP
   - TCP와 UDP 개념과 그 차이

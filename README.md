@@ -96,3 +96,6 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - Mockito
   
 - API 문서화
+
+## Spring Security
+- 인증/보안 기초

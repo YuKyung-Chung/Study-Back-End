@@ -52,20 +52,20 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 - Spring Framework 특징
 - Spring Framework 모듈 구성
 - Spring Boot
-- POJO(Plain Old Java Object)
-- IoC(Inversion of Control)
-- DI(Dependency Injection)
-  - 스프링 컨테이너
-  - 빈
-  - 빈 스코프
-- AOP(Aspect Oriented Programming)
+- [POJO(Plain Old Java Object)](https://infinite-power.tistory.com/84)
+- [IoC(Inversion of Control)](https://infinite-power.tistory.com/84)
+- [DI(Dependency Injection)](https://infinite-power.tistory.com/88)
+  - [스프링 컨테이너](https://infinite-power.tistory.com/92)
+  - [빈](https://infinite-power.tistory.com/92)
+  - [빈 스코프](https://infinite-power.tistory.com/92)
+- [AOP(Aspect Oriented Programming)](https://infinite-power.tistory.com/84)
   - AOP 필요한 이유
   - AOP 용어
   - 타입별 Advice
   - Pointcut 표현식
   - JoinPoint
   - 애너테이션을 이용한 AOP
-- PSA(Portable Service Abstraction)
+- [PSA(Portable Service Abstraction)](https://infinite-power.tistory.com/84)
 
 ## Spring MVC
 - API 계층

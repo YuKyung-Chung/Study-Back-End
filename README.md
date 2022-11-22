@@ -69,8 +69,8 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 
 ## Spring MVC
 - API 계층
-  - Spring MVC 아키텍처
-  - Controller
+  - [Spring MVC 아키텍처](https://infinite-power.tistory.com/93?category=1008481)
+  - [Controller](https://infinite-power.tistory.com/94)
   - DTO(Data Transfer Object)
 
 - 서비스 계층

@@ -73,7 +73,7 @@ Back-End 다루기 위해 필요한 지식 공부 기록
   - [Controller](https://infinite-power.tistory.com/94)
   - DTO(Data Transfer Object)
 
-- 서비스 계층
+- [서비스 계층](https://infinite-power.tistory.com/98)
   - DI를 통한 서비스 계층 <-> API 계층 연동
   - Mapper를 이용한 DTO 클래스 <-> 엔티티(Entity) 클래스 매핑
 

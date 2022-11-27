@@ -99,3 +99,10 @@ Back-End 다루기 위해 필요한 지식 공부 기록
 
 ## Spring Security
 - 인증/보안 기초
+
+- Spring Security 기본
+
+- JWT 인증
+
+- OAuth2 인증
+
